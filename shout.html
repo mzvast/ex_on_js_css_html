@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+<script type="text/javascript">
+  var Obj = function(msg){
+    this.msg = msg;
+    this.shout = function(){
+        alert(this.msg);
+    }  
+    this.waitAndShout = function(){
+       setTimeout(this.shout,5000);
+    }
+}
+var ob = new Obj;
+ob.waitAndShout();
+</script>
+</body>
+</html>

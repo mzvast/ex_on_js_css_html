@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+<iframe id="f1" src="inputBox.html"></iframe>
+
+<script type="text/javascript">
+  let ele = document.getElementById('f1');
+  let win = ele.contentWindow;
+  console.log(win.frameElement);
+  console.log(Object.keys(win).includes('frameElement'));
+  console.log(Object.keys(win).indexOf('frameElement'));
+</script>
+</body>
+</html>

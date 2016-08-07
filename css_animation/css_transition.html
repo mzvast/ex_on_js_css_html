@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>CSS transition</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    body {
+        padding: 50px;
+    }
+    
+    .box {
+        display: inline-block;
+        background: pink;
+        width: 200px;
+        height: 200px;
+        transition: transform 300ms ease-in-out;
+        pointer-events: none;
+        /*amazing*/
+    }
+    
+    .trigger {
+        width: 200px;
+        height: 200px;
+        border: 20px solid #999;
+        background: #ddd;
+    }
+    
+    .trigger.clicked .box {
+        transform: translate(200px, 150px) rotate(20deg);
+    }
+    </style>
+</head>
+
+<body>
+    <div class="trigger">
+        <div class="box"></div>
+    </div>
+</body>
+<script>
+let trigger = document.getElementsByClassName('trigger')[0];
+trigger.addEventListener('click', function() {
+    this.classList.toggle('clicked');
+})
+</script>
+
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>demo</title>
+    <style type="text/css">
+    .wrap {
+        position: relative;
+        width: 400px;
+        height: 200px;
+        overflow: hidden;
+    }
+    
+    .pic {
+        width: 1200px;
+    }
+    
+    .pic>div {
+        float: left;
+        width: 400px;
+        height: 200px;
+        background: #5dd94e;
+    }
+    
+    #position {
+        margin: 0;
+        background: #000;
+        opacity: 0.4;
+        width: 400px;
+        text-align: right
+    }
+    
+    #position li {
+        width: 10px;
+        height: 10px;
+        margin: 0 2px;
+        display: inline-block;
+        --webkit-border-radius: 5px;
+        background-color: #AFAFAF;
+    }
+    
+    #position li.cur {
+        background-color: #FF0000;
+    }    
+
+    </style>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="pic">
+            <div>
+                <a href="javascript:;">0</a>
+            </div>
+            <div>
+                <a href="javascript:;">1</a>
+            </div>
+            <div>
+                <a href="javascript:;">2</a>
+            </div>
+        </div>
+    </div>
+    <ul id="position">
+        <li class="cur"></li>
+        <li class=""></li>
+        <li class=""></li>
+    </ul>
+    <!-- code below -->
+    <script type="text/javascript">
+    const $ = (selector) => document.querySelectorAll(selector);
+    let btns = Array.prototype.map.call($('#position>li'), (x) => x);
+    // console.log($('.pic>div'));
+    let imgs = Array.prototype.map.call($('.pic>div'), (x) => x);
+    // console.log(img2);
+    // img2.style.transform='translate(100%,0)';
+    // img3.style.transform='translate(100%,0)';
+
+    let position = $('#position')[0];
+    position.onclick = (e) => {
+        if (e.target.nodeName === 'LI' && e.target.className !== 'cur') {
+          let index = btns.indexOf(e.target);
+         
+
+
+            btns.map((btn) => {
+                if (btn !== e.target) {
+                    btn.classList.remove('cur');
+                } else {
+                    btn.classList.add('cur');
+                }
+            });
+        };
+    };
+
+
+   
+    </script>
+</body>
+
+</html>

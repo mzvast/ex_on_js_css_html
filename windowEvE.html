@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>window Obj</title>
+</head>
+<body>
+<button id="okay">Open Me</button>
+<button id="close">Clock that</button>
+<script type="text/javascript">
+Object.keys(location).forEach((x)=>{
+  if (typeof location[x] !== 'function') {
+    document.write(`${x}:${location[x]}<br>`);
+  }
+})
+const w1 = window;
+let w2;
+const trickyTitle = (win)=>{
+  win.onblur = function () {
+    win.document.title="(0><0)";
+    win.document.body.style.background='red';
+    okay.style.background='white';
+  }
+  win.onfocus = function () {
+    win.document.title="window Obj";
+    win.document.body.style.background='white';
+  }
+}
+
+trickyTitle(w1);
+const $ = (selector) => {
+  return document.querySelector(selector);
+};
+okay.onclick = ()=>{
+  w2= window.open('inputBox.html','myWind','width=400,height=250');
+  setTimeout(()=>{
+    w2.document.body.style.background="red";
+    // closeW2();
+    trickyTitle(w2);
+  },100);
+  let closeW2 = ()=>{
+    setTimeout(()=>{
+    w2.close();
+  },1000);
+  }
+}
+$('#close').onclick = ()=>{
+  w2?w2.close():'';
+  setTimeout(()=>{
+    console.log(`w2.closed:${w2.closed}`);
+  },100)
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+    .purple{
+      background-color: purple;
+    }
+    .red{
+      background-color: red;
+    }
+    slide {
+      display: none;
+      width: 100px;
+      height: 100px;
+      /* transform: translateX(100px); */
+    }
+
+    input:checked + slide {
+      display: block;
+      transform: translateX(0px);
+      transition-duration: 3s;
+    }
+
+    
+    label {
+      cursor: pointer;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="cont">
+      <input id="img1" name="img" type="radio" checked="checked" hidden>
+      <slide class='purple'></slide>
+      <input id="img2" name="img" type="radio" hidden>
+      <slide class='red'></slide>
+    </div>
+    <div id="nav">
+      <label for="img1">第一张</label>
+      <label for="img2">第二张</label>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1801 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inpu",
+				"inputStr"
+			],
+			[
+				"out",
+				"outterArr"
+			],
+			[
+				"slic",
+				"slice	.slice()"
+			],
+			[
+				"inn",
+				"innerArr"
+			],
+			[
+				"trans",
+				"translateX()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"tranfor",
+				"transform"
+			],
+			[
+				"transl",
+				"translateZ()"
+			],
+			[
+				"tran",
+				"translate3d()"
+			],
+			[
+				"overfl",
+				"overflow-x"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lig",
+				"lightcoral"
+			],
+			[
+				"ocp",
+				"opacity: 〔property〕"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"wid",
+				"wid	width"
+			],
+			[
+				"to",
+				"toggle	.toggle()"
+			],
+			[
+				"transi",
+				"transition-duration"
+			],
+			[
+				"dark",
+				"dark_blue"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"str",
+				"strArr"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"content",
+				"contentWindow"
+			],
+			[
+				"ifra",
+				"iframeElement"
+			],
+			[
+				"get",
+				"getElementById〔function〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"sho",
+				"shout.html"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"clear",
+				"clearInterval〔function〕"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"create",
+				"createElement〔function〕"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"off",
+				"offsetWidth"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin: 〔property〕"
+			],
+			[
+				"cr",
+				"createObjectStore"
+			],
+			[
+				"fa",
+				"favourite"
+			],
+			[
+				"ke",
+				"keyval"
+			],
+			[
+				"key",
+				"keyValStore"
+			],
+			[
+				"keyva",
+				"keyval"
+			],
+			[
+				"obj",
+				"objectStore"
+			],
+			[
+				"db",
+				"dbPromise"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"req",
+				"requestURL"
+			],
+			[
+				"cont",
+				"contents	.contents()"
+			],
+			[
+				"togg",
+				"toggle"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"box",
+				"boxes"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"user",
+				"username	(weme.js)"
+			],
+			[
+				"cmder",
+				"Cmder.exe"
+			],
+			[
+				"margin",
+				"margin-top: 〔property〕"
+			],
+			[
+				"bor",
+				"border: 〔property〕"
+			],
+			[
+				"fore",
+				"foreach:activityList"
+			],
+			[
+				"with",
+				"with:ViewModel1"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"cur",
+				"currentActivity"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"bu",
+				"button	Tag"
+			],
+			[
+				"att",
+				"attr:{class:$data==$parent"
+			],
+			[
+				"last",
+				"lastPageIndex"
+			],
+			[
+				"al",
+				"align"
+			],
+			[
+				"ava",
+				"avatarurl	(card.js)"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"times",
+				"timestamp"
+			],
+			[
+				"post",
+				"postbox	(publish.handlebars)"
+			],
+			[
+				"ko",
+				"ko.db.click	Click data-bind attribute for KnockoutJS"
+			],
+			[
+				"mj",
+				"mjq	(js-j.sublime-snippet)"
+			],
+			[
+				"jq",
+				"jq	js-j"
+			],
+			[
+				"htm",
+				"html5skel	js-j"
+			],
+			[
+				"j",
+				"javascript	(js-j.sublime-snippet)"
+			],
+			[
+				"getIn",
+				"getInitialComplete	(AddressBook.js)"
+			],
+			[
+				"Add",
+				"AddressBook"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"C",
+				"ContactSpec.js"
+			],
+			[
+				"this",
+				"thisContact"
+			],
+			[
+				"head",
+				"headers"
+			],
+			[
+				"hea",
+				"headers	(echoServer.js)"
+			],
+			[
+				"jso",
+				"jsonStr"
+			],
+			[
+				"hid",
+				"hidden	(home.handlebars)"
+			],
+			[
+				"local",
+				"localhost:8080"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"pre",
+				"preview"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"arrayBind",
+				"arrayBindUniviersity	(home.handlebars)"
+			],
+			[
+				"selectedPr",
+				"selectedProvince	(home.handlebars)"
+			],
+			[
+				"uni",
+				"university"
+			],
+			[
+				"provin",
+				"province"
+			],
+			[
+				"provinc",
+				"provinceArray"
+			],
+			[
+				"removeA",
+				"removeAll	(manage.js)"
+			],
+			[
+				"cho",
+				"chosenSex"
+			],
+			[
+				"aval",
+				"avaliableDegree	(home.js)"
+			],
+			[
+				"op",
+				"options:$parent"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"avalia",
+				"avaliableSchool	(home.js)"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"bs3-b",
+				"bs3-button	bs3-button"
+			],
+			[
+				"visi",
+				"visible:list	(manage.handlebars)"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"wi",
+				"width: 〔property〕"
+			],
+			[
+				"wit",
+				"with:ViewModel1"
+			],
+			[
+				"currn",
+				"currentProfile"
+			],
+			[
+				"img",
+				"imgUrls"
+			],
+			[
+				"shw",
+				"showProfile"
+			],
+			[
+				"Publish_",
+				"Publish_selectedActivity"
+			],
+			[
+				"pos",
+				"postbox"
+			],
+			[
+				"po",
+				"postbox"
+			],
+			[
+				"publish",
+				"publishOn"
+			],
+			[
+				"pu",
+				"publishOn"
+			],
+			[
+				"clicked",
+				"clickedDetail"
+			],
+			[
+				"Publi",
+				"Publis_clicked_detail"
+			],
+			[
+				"attr",
+				"attr:{src:imgUrl"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"Activity",
+				"ActivityLifeImg"
+			],
+			[
+				"fech",
+				"fetchList"
+			],
+			[
+				"fil",
+				"filterByIsSelected"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "网易/deleteStr.js",
+			"settings":
+			{
+				"buffer_size": 595,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "网易/deleteStr.py",
+			"settings":
+			{
+				"buffer_size": 433,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "网易/maxCost.py",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "网易/01stream.py",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/NodeJS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/NodeJS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "pep8",
+		"selected_items":
+		[
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"repl",
+				"SublimeREPL: Node"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git di",
+				"Git: Diff All Files"
+			],
+			[
+				"git res",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"snp db",
+				"Snippet: Foreach data-bind attribute for KnockoutJS"
+			],
+			[
+				"snippet fon",
+				"Snippet: font: 1em/1.5 sans-serif;"
+			],
+			[
+				"Snippet: j",
+				"Snippet: js-j"
+			],
+			[
+				"fe",
+				"Fetch: Manage"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jasmin",
+				"Jasmine: Create spec file"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git tag",
+				"Git: Push Tags"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push ta",
+				"Git: Push Tags"
+			],
+			[
+				"git show",
+				"Git: Show Tags"
+			],
+			[
+				"REPL No",
+				"SublimeREPL: Node"
+			],
+			[
+				"docbl",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"blocker",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"repl no",
+				"SublimeREPL: Node"
+			],
+			[
+				"repl nod",
+				"SublimeREPL: Node"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"gitlog",
+				"Git: Log All"
+			],
+			[
+				"REPL no",
+				"SublimeREPL: Node"
+			],
+			[
+				"pilp",
+				"Package Control: List Packages"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"coment",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"react",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"react wa",
+				"Snippet: React: wrap in a component"
+			],
+			[
+				"git log ",
+				"Git: Log All"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"\\",
+				"Emmet: Split\\Join Tag"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 494.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/网易"
+	],
+	"file_history":
+	[
+		"/C/Users/mzvast/AppData/Roaming/Code/User/workspaceStorage/1eafacd4a13b07e54190fc20ada7a3cc/meta.json",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/网易/deleteStrES5.js",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/dom.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/slideCSS.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/beforeUnload.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/parallax.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/domMass.html",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/网易幻灯片切换.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/flexfox.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/iframe.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/windowEvE.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/test.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/网易test.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/网易cd.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/网易幻灯片切换.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/阿里traverse.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/doSomething.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/sort.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/drawLayout.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/toRGB.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/shout.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/checkEmail.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/jsCreateDom.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/inputBox.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/urlParser.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/阿里traverse.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/阿里form.html",
+		"/D/WorkSpaces/JS/playground/es6-test/showMoney.js",
+		"/D/WorkSpaces/JS/playground/es6-test/sum.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/layout.html",
+		"/D/WorkSpaces/JS/playground/python/quicksort.py",
+		"/D/WorkSpaces/UdacityRepos/ud899-offline-web-applications/wittr/public/js/idb-test/index.js",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/D/WorkSpaces/UdacityRepos/ud899-offline-web-applications/wittr/public/js/main/IndexController.js",
+		"/D/WorkSpaces/UdacityRepos/ud899-offline-web-applications/wittr/public/js/sw/index.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/pizza-perf/js/main.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/box-recalc-style-slow.html",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/app/scripts/qrclient.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/app/scripts/main.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/app/scripts/jsqrcode/qrworker.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/app/index.html",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/sftp-config.json",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/image-app-improved.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/imageManips-improved.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/worker-improved.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/image-app-solution.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/image-app.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/index.html",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/index-solution.html",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/worker.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/imageManips.js",
+		"/D/WorkSpaces/JS/weme/src/views/partials/css_bt.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/js_bt.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/layouts/main_bt.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/landing.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/swiper_content.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/swiper_js.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/vex_combined_js.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/jquery.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/css_bt_navbar.handlebars",
+		"/D/WorkSpaces/JS/weme/src/package.json",
+		"/D/WorkSpaces/JS/weme/src/views/auth/login.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/admin/leftbar.handlebars",
+		"/D/WorkSpaces/JS/weme/src/weme.js",
+		"/D/WorkSpaces/weme/src/weme.js",
+		"/D/WorkSpaces/weme/src/public/js/auth/login.js",
+		"/D/WorkSpaces/weme/src/views/user/activity/manage.handlebars",
+		"/D/WorkSpaces/weme/src/public/js/models/koModel.js",
+		"/D/WorkSpaces/weme/src/public/js/user/activity/manage.js",
+		"/D/WorkSpaces/weme/src/views/admin/card.handlebars",
+		"/D/WorkSpaces/weme/src/public/js/admin/card.js",
+		"/D/WorkSpaces/weme/src/views/auth/login.handlebars",
+		"/D/WorkSpaces/weme/src/views/partials/user/navbar.handlebars",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/D/WorkSpaces/weme/src/views/admin/cardwall.handlebars",
+		"/D/WorkSpaces/weme/src/public/js/admin/cardwall.js",
+		"/D/WorkSpaces/weme/src/bower.json",
+		"/D/WorkSpaces/weme/src/views/partials/swiper_content.handlebars",
+		"/D/WorkSpaces/weme/src/views/partials/admin/leftbar.handlebars",
+		"/D/WorkSpaces/weme/src/views/layouts/main_bt.handlebars",
+		"/D/WorkSpaces/weme/src/views/auth/register.handlebars",
+		"/D/WorkSpaces/weme/src/views/user/home.handlebars",
+		"/D/WorkSpaces/weme/src/public/js/landing_head_button.js",
+		"/D/WorkSpaces/weme/src/views/partials/css_bt_navbar.handlebars",
+		"/D/WorkSpaces/weme/src/views/admin/eventRegister.handlebars",
+		"/D/WorkSpaces/weme/README.md",
+		"/D/WorkSpaces/weme/src/gulpfile.js",
+		"/D/WorkSpaces/weme/src/views/admin/certificate.handlebars",
+		"/D/WorkSpaces/weme/src/views/admin/publish.handlebars",
+		"/D/WorkSpaces/weme/src/public/js/admin/certificate.js",
+		"/D/WorkSpaces/weme/src/public/js/admin/publish.js",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/@snippetByMzvast/js-console-log.sublime-snippet",
+		"/C/Users/mzvast/dockershare/pro-dp7/需求.txt",
+		"/D/WorkSpaces/weme/src/views/admin/dashboard.handlebars",
+		"/D/WorkSpaces/weme/src/views/landing.handlebars",
+		"/D/WorkSpaces/weme/src/views/partials/landing_head.handlebars",
+		"/D/WorkSpaces/weme/src/views/landing_mix.handlebars",
+		"/D/WorkSpaces/weme/src/bower_components/vex/js/vex.combined.min.js",
+		"/D/WorkSpaces/weme/src/newtest.js",
+		"/D/WorkSpaces/weme/tests/src/AddressBook.js",
+		"/D/WorkSpaces/weme/tests/spec/AddressBookSpec.js",
+		"/D/WorkSpaces/weme/tests/SpecRunner.html",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/@snippetByMzvast/html-ko-data-bind.sublime-snippet",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/@snippetByMzvast/html-ko-withVM",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/@snippetByMzvast/js-j.sublime-snippet",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/@snippetByMzvast/html-databind.sublime-snippet",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/D/WorkSpaces/weme/tests/src/Contact.js",
+		"/D/WorkSpaces/weme/tests/spec/ContactSpec.js",
+		"/D/WorkSpaces/weme/tests/spec/myExpect.js",
+		"/D/WorkSpaces/weme/src/echoServer.js",
+		"/D/WorkSpaces/weme/src/public/js/user/home/home.js",
+		"/D/WorkSpaces/weme/src/tests/SpecRunner.html",
+		"/D/WorkSpaces/weme/src/package.json",
+		"/D/WorkSpaces/weme/src/fileup.js",
+		"/D/WorkSpaces/weme/curl.md",
+		"/D/WorkSpaces/weme/src/public/js/models/university.js",
+		"/D/WorkSpaces/weme/src/test.js",
+		"/D/WorkSpaces/weme/src/proxy.js",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/ConvertToUTF8.sublime-settings",
+		"/D/WorkSpaces/weme/src/public/css/navbar-fixed-top.css",
+		"/D/WorkSpaces/weme/src/.eslintignore",
+		"/D/WorkSpaces/weme/src/views/user/community.handlebars",
+		"/D/WorkSpaces/weme/src/views/user/activity.handlebars"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"outter",
+			"10",
+			"true",
+			"innerArr",
+			"var",
+			"i",
+			",",
+			"translateX",
+			");\n",
+			"red",
+			"img",
+			"write",
+			"-1",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"\"",
+			"top",
+			"margin",
+			"0.5",
+			"after",
+			"hover",
+			"style",
+			"div",
+			"add",
+			"\"",
+			"pic div",
+			"iframeElement",
+			"document",
+			"w1",
+			"+",
+			"input",
+			"i",
+			"){",
+			"function(",
+			"var",
+			")",
+			"alert",
+			";",
+			"alert",
+			";",
+			"sum",
+			"arguments[i]",
+			"requestURL",
+			"div",
+			"changePizzaSizes",
+			"frame",
+			"workers",
+			"star",
+			"id",
+			"getprofilebyi",
+			"disable",
+			"birthday",
+			":",
+			"showDownload",
+			"downloadList",
+			"Publish_selectedActivity",
+			"isSelected()",
+			"isSelected",
+			"\\",
+			"showRef",
+			"	<",
+			"foreach",
+			"img/",
+			"/img",
+			"nav",
+			"img-min-lossless-jpg",
+			"img-min-dist",
+			"admin",
+			"z",
+			"thumb",
+			"/src",
+			"a",
+			"data-ngthumb",
+			"照片",
+			"卡片",
+			"flash",
+			"a",
+			"button",
+			"8",
+			"7",
+			"showRefresh",
+			"show",
+			"data-bind=\"with:ViewModel1.currentActivity()\"",
+			"data-bind=\"with:ViewModel1.currentActivity()",
+			"data-bind=\"with:ViewModel3.currentProfile()",
+			" <hr>",
+			"show",
+			"attr",
+			"this.",
+			"http",
+			"class='img-responsive '",
+			"center-block",
+			"img/4",
+			"checkflag",
+			"time",
+			"state",
+			"signnumber",
+			"remark",
+			"number",
+			"imageurl",
+			"itemSizeOfActivityList",
+			"data-bind=",
+			"Publish_selectedActivity",
+			"\\",
+			"self",
+			"response",
+			"request",
+			"json_data",
+			"response",
+			"request",
+			"50",
+			"20",
+			"\"",
+			"jsonstr",
+			"res",
+			"req",
+			"options",
+			"https",
+			"\"",
+			"form",
+			"Form",
+			"form",
+			"'",
+			"\"",
+			"util",
+			"form",
+			"//",
+			"res.",
+			"api"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "网易/deleteStr.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								447,
+								447
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										456,
+										457
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.curly"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										416,
+										417
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended (SL).tmTheme",
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "网易/deleteStr.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended (SL).tmTheme",
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "网易/maxCost.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended (SL).tmTheme",
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "网易/01stream.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										143,
+										144
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.round"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										119,
+										120
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Extended (SL).tmTheme",
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"open_with_edit": true,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 154.0
+	},
+	"output.sftp":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "html_and_css_and_JavaScript.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"login",
+				"src\\views\\auth\\login.handlebars"
+			],
+			[
+				"card.js",
+				"src\\public\\js\\admin\\card.js"
+			],
+			[
+				"manage.js",
+				"src\\public\\js\\user\\activity\\manage.js"
+			],
+			[
+				"activity/manage",
+				"src\\views\\user\\activity\\manage.handlebars"
+			],
+			[
+				"event.js",
+				"node_modules\\jquery\\src\\event.js"
+			],
+			[
+				".js",
+				"public\\scripts\\example.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

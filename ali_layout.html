@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<style type="text/css">		
+		.logo{
+			border:solid red 1px;
+			float:left;
+			height: 50px;
+			width: 50px;
+			margin: 10px;
+		}
+		.name{
+			border:solid red 1px;
+			float:right;
+			margin-top:50px;
+			margin-right:20px;
+			margin-bottom:20px;
+			width: 100px;
+			height: 20px;
+			text-align:right;
+		}
+		header{
+			margin:5px;
+			border:solid green 1px;
+			height: 80px;
+		}
+		content{
+			margin:10px 5px;
+			float:left;
+			display: block;
+			border:solid blue 1px;
+			height:300px;
+			width: calc(100% - 230px);
+		}
+		aside{
+			margin:5px;
+			float:right;
+			border:solid red 1px;
+			width: 200px;
+			height: 100px;
+		}
+		footer{
+			margin: 5px;
+			clear:both;
+			border:solid black 1px;
+			width: calc(100% - 10px);
+			height: 50px;
+			text-align:center;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<div class="logo">Logo</div>
+		<div class="name">用户名</div>
+	</header>	
+	<content>content-自适应宽度</content>
+	<aside>aside-定宽200px</aside>
+</body>
+<footer>footer</footer>
+</html>

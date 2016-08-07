@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style type="text/css"> 
+  .less{
+    width: 40px;
+    height: 40px;
+  }
+  .more{
+    width: 60px;
+    height: 60px;
+  }1
+  </style>
+</head>
+<body>
+<div class="less"></div>
+<div class="more"></div>
+<script type="text/javascript">
+var traverse = function () {
+  var rtn = [];
+  var nodes = document.querySelectorAll("body *");
+  nodes.forEach(function (node) {
+    if(node.offsetWidth>50&&node.offsetHeight>50){ 
+      rtn.push(node);
+    }
+  })
+  return rtn;
+};
+
+</script>
+</body>
+</html>

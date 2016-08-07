@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS_animation</title>
+  <style type="text/css">
+    .box{
+      /* margin-bottom: -4px; */
+      vertical-align:bottom;/*随便什么都可以，去除底部空隙*/
+      display: inline-block;
+      background: pink;
+      width: 20px;
+      height: 20px;
+      position: relative;
+      animation: myframes 300ms ease-in-out 0s 1  forwards;
+    }
+
+    .box.is-paused{
+      animation-play-state: paused;
+    }
+    @keyframes myframes{
+      0%{
+        transform: scale(0) rotate(30deg);
+      }
+     
+      100%{
+        transform: scale(1) rotate(0deg);
+      }
+    }
+    body{
+      /* font-size: 0; 可以去除底边空隙*/
+      border: 3px solid green;
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <div class="row"></div>
+</body>
+<script type="text/javascript">
+  let ele = document.querySelector('body');
+  ele.addEventListener('click',function() {
+    console.log("click");
+    let boxEle = document.createElement('div');
+    boxEle.classList.add('box');
+    this.appendChild(boxEle);
+  })
+  let counter = 0;
+  const adder= window.setInterval(()=>{
+    ele.click();
+    console.log(counter);
+    if (counter>200) {
+      clearInterval(adder);
+    }else{
+      counter ++;
+    }
+  },10)
+</script>
+</html>
