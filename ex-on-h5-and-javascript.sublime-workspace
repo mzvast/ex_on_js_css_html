@@ -1,0 +1,1304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reduc",
+				"reduce(callback)	Array"
+			],
+			[
+				"cur",
+				"curIndex"
+			],
+			[
+				"r",
+				"round〔function〕"
+			],
+			[
+				"firs",
+				"first"
+			],
+			[
+				"fir",
+				"firstAndLast"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"subst",
+				"substring(indexA)	String"
+			],
+			[
+				"substr",
+				"substr(start)	String"
+			],
+			[
+				"ty",
+				"typeof(Object)	Object"
+			],
+			[
+				"memo",
+				"memory"
+			],
+			[
+				"tofi",
+				"toFixed(digits)	Number"
+			],
+			[
+				"face",
+				"face_balance"
+			],
+			[
+				"toFix",
+				"toFixed(digits)	Number"
+			],
+			[
+				"tofix",
+				"toFixed(digits)	Number"
+			],
+			[
+				"chan",
+				"change"
+			],
+			[
+				"cid",
+				"cid_total"
+			],
+			[
+				"app",
+				"appear"
+			],
+			[
+				"conlg",
+				"console.log()"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"type",
+				"typeof〔keyword〕"
+			],
+			[
+				"prev",
+				"previous"
+			],
+			[
+				"clog",
+				"console.log()"
+			],
+			[
+				"en",
+				"endTime"
+			],
+			[
+				"cod",
+				"charCodeAt(index)	String"
+			],
+			[
+				"ch",
+				"charCodeAt"
+			],
+			[
+				"aft",
+				"after"
+			],
+			[
+				"af",
+				"after"
+			],
+			[
+				"bef",
+				"before"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"forEa",
+				"forEach(callback)	Array"
+			],
+			[
+				"sour",
+				"sourceKeyArr"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"ret",
+				"return	(getIndexToIns.js)"
+			],
+			[
+				"forEach",
+				"forEach(callback)	Array"
+			],
+			[
+				"lett",
+				"letterArr"
+			],
+			[
+				"char",
+				"charCodeAt〔function〕"
+			],
+			[
+				"tolo",
+				"toLowerCase()	String"
+			],
+			[
+				"slice",
+				"slice(begin)	Array"
+			],
+			[
+				"spl",
+				"split	(reverseString.js)"
+			],
+			[
+				"lar",
+				"largestOnArr"
+			],
+			[
+				"indexOf",
+				"indexOf(searchElement)	Array"
+			],
+			[
+				"larg",
+				"largestIndex"
+			],
+			[
+				"subs",
+				"substring(indexA)	String"
+			],
+			[
+				"match",
+				"match(regexp)	String"
+			],
+			[
+				"rever",
+				"reverse()	Array"
+			],
+			[
+				"lower",
+				"toLowerCase()	String"
+			],
+			[
+				"forea",
+				"forEach(callback)	Array"
+			],
+			[
+				"proper",
+				"hasOwnProperty(property)	Object"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"toS",
+				"toString"
+			],
+			[
+				"flo",
+				"floatLen"
+			],
+			[
+				"cr",
+				"createModule"
+			],
+			[
+				"gree",
+				"greeting"
+			],
+			[
+				"conslo",
+				"console"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"foreach",
+				"forEach(callback)	Array"
+			],
+			[
+				"else",
+				"else〔keyword〕"
+			],
+			[
+				"el",
+				"else if()"
+			],
+			[
+				"toString",
+				"toString()	String"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"consoel",
+				"console.log"
+			],
+			[
+				"slic",
+				"slice"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"cont",
+				"contains	.contains()"
+			],
+			[
+				"inpu",
+				"inputStr"
+			],
+			[
+				"out",
+				"outterArr"
+			],
+			[
+				"inn",
+				"innerArr"
+			],
+			[
+				"trans",
+				"translateX()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"tranfor",
+				"transform"
+			],
+			[
+				"transl",
+				"translateZ()"
+			],
+			[
+				"tran",
+				"translate3d()"
+			],
+			[
+				"overfl",
+				"overflow-x"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lig",
+				"lightcoral"
+			],
+			[
+				"ocp",
+				"opacity: 〔property〕"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"wid",
+				"wid	width"
+			],
+			[
+				"to",
+				"toggle	.toggle()"
+			],
+			[
+				"transi",
+				"transition-duration"
+			],
+			[
+				"dark",
+				"dark_blue"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"str",
+				"strArr"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"content",
+				"contentWindow"
+			],
+			[
+				"ifra",
+				"iframeElement"
+			],
+			[
+				"get",
+				"getElementById〔function〕"
+			],
+			[
+				"sho",
+				"shout.html"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"clear",
+				"clearInterval〔function〕"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"create",
+				"createElement〔function〕"
+			],
+			[
+				"off",
+				"offsetWidth"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin: 〔property〕"
+			],
+			[
+				"fa",
+				"favourite"
+			],
+			[
+				"ke",
+				"keyval"
+			],
+			[
+				"key",
+				"keyValStore"
+			],
+			[
+				"keyva",
+				"keyval"
+			],
+			[
+				"obj",
+				"objectStore"
+			],
+			[
+				"db",
+				"dbPromise"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"req",
+				"requestURL"
+			],
+			[
+				"togg",
+				"toggle"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"box",
+				"boxes"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"user",
+				"username	(weme.js)"
+			],
+			[
+				"cmder",
+				"Cmder.exe"
+			],
+			[
+				"margin",
+				"margin-top: 〔property〕"
+			],
+			[
+				"bor",
+				"border: 〔property〕"
+			],
+			[
+				"fore",
+				"foreach:activityList"
+			],
+			[
+				"with",
+				"with:ViewModel1"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"scr",
+				"script	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/NodeJS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/NodeJS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "wrap",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"repl",
+				"SublimeREPL: Node"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"newf",
+				"ANF: New File"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git di",
+				"Git: Diff All Files"
+			],
+			[
+				"git res",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"snp db",
+				"Snippet: Foreach data-bind attribute for KnockoutJS"
+			],
+			[
+				"snippet fon",
+				"Snippet: font: 1em/1.5 sans-serif;"
+			],
+			[
+				"Snippet: j",
+				"Snippet: js-j"
+			],
+			[
+				"fe",
+				"Fetch: Manage"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jasmin",
+				"Jasmine: Create spec file"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git tag",
+				"Git: Push Tags"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push ta",
+				"Git: Push Tags"
+			],
+			[
+				"git show",
+				"Git: Show Tags"
+			],
+			[
+				"REPL No",
+				"SublimeREPL: Node"
+			],
+			[
+				"docbl",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"blocker",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"repl no",
+				"SublimeREPL: Node"
+			],
+			[
+				"repl nod",
+				"SublimeREPL: Node"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"gitlog",
+				"Git: Log All"
+			],
+			[
+				"REPL no",
+				"SublimeREPL: Node"
+			],
+			[
+				"pilp",
+				"Package Control: List Packages"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"coment",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"react",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"react wa",
+				"Snippet: React: wrap in a component"
+			],
+			[
+				"git log ",
+				"Git: Log All"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"\\",
+				"Emmet: Split\\Join Tag"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 494.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/workspace/playground/@html_and_css_and_JS"
+	],
+	"file_history":
+	[
+		"/D/workspace/JS/FreeCodeCamp/readme.md",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/orbitalPeriod.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/pairwise.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/updateInventory.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/permAlone[hard].js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/makeFriendlyDates[terrible].js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/Person.js",
+		"/D/workspace/JS/FreeCodeCamp/self_exc/fibs[memo].js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/telephoneCheck.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/sym.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/checkCashRegister.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_advanced/test.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/addTogether.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/binaryAgent.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/truthCheck.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/steamrollArray.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/smallestCommons.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/findElement.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/dropElements.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/sumPrimes.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/sumFibs.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/spinalCase.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/translatePigLatin.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/pairElement.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/fearNotLetter.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/booWho.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/uniteUnique.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/convertHTML.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/whatIsInAName.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/myReplace.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/sumAll.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/diffArray.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_mid/convertToRoman.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/getIndexToIns.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/rot13.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/slasher.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/mutation.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/bouncer.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/destroyer.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/chunkArrayInGroups.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/reverseString.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/factorialize.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/palindrome.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/findLongestWord.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/titleCase.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/largestOfFour.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/confirmEnding.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/repeatStringNumTimes.js",
+		"/D/workspace/JS/FreeCodeCamp/algorithm_basic_new/truncateString.js",
+		"/D/workspace/playground/@html_and_css_and_JS/js/temp.js",
+		"/D/workspace/playground/@html_and_css_and_JS/js/test3.js",
+		"/D/workspace/playground/@html_and_css_and_JS/js/test2.js",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/workspace/playground/@html_and_css_and_JS/js/test.js",
+		"/D/workspace/playground/@html_and_css_and_JS/language_js/indexOf.js",
+		"/D/workspace/playground/@html_and_css_and_JS/网易/01stream.py",
+		"/D/workspace/playground/@html_and_css_and_JS/网易/deleteStr.js",
+		"/D/workspace/playground/@html_and_css_and_JS/网易/deleteStr.py",
+		"/D/workspace/playground/@html_and_css_and_JS/网易/maxCost.py",
+		"/C/Users/mzvast/AppData/Roaming/Code/User/workspaceStorage/1eafacd4a13b07e54190fc20ada7a3cc/meta.json",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/网易/deleteStrES5.js",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/dom.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/slideCSS.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/beforeUnload.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/parallax.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/domMass.html",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/网易幻灯片切换.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/flexfox.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/iframe.html",
+		"/D/WorkSpaces/JS/playground/笔试和草稿html_and_css_and_JS/windowEvE.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/test.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/网易test.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/网易cd.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/网易幻灯片切换.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/阿里traverse.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/doSomething.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/sort.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/drawLayout.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/toRGB.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/shout.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/checkEmail.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/jsCreateDom.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/inputBox.html",
+		"/D/WorkSpaces/JS/playground/html_and_css/urlParser.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/阿里traverse.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/阿里form.html",
+		"/D/WorkSpaces/JS/playground/es6-test/showMoney.js",
+		"/D/WorkSpaces/JS/playground/es6-test/sum.js",
+		"/D/WorkSpaces/JS/playground/html_and_css/layout.html",
+		"/D/WorkSpaces/JS/playground/python/quicksort.py",
+		"/D/WorkSpaces/UdacityRepos/ud899-offline-web-applications/wittr/public/js/idb-test/index.js",
+		"/C/Users/mzvast/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/D/WorkSpaces/UdacityRepos/ud899-offline-web-applications/wittr/public/js/main/IndexController.js",
+		"/D/WorkSpaces/UdacityRepos/ud899-offline-web-applications/wittr/public/js/sw/index.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/pizza-perf/js/main.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/box-recalc-style-slow.html",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/app/scripts/qrclient.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/app/scripts/main.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/app/scripts/jsqrcode/qrworker.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/app/index.html",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/qrcode/sftp-config.json",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/image-app-improved.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/imageManips-improved.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/worker-improved.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/image-app-solution.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/image-app.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/index.html",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/index-solution.html",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/worker.js",
+		"/D/WorkSpaces/UdacityRepos/ud860-60fps/web-workers-demo/scripts/imageManips.js",
+		"/D/WorkSpaces/JS/weme/src/views/partials/css_bt.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/js_bt.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/layouts/main_bt.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/landing.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/swiper_content.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/swiper_js.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/vex_combined_js.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/jquery.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/css_bt_navbar.handlebars",
+		"/D/WorkSpaces/JS/weme/src/package.json",
+		"/D/WorkSpaces/JS/weme/src/views/auth/login.handlebars",
+		"/D/WorkSpaces/JS/weme/src/views/partials/admin/leftbar.handlebars",
+		"/D/WorkSpaces/JS/weme/src/weme.js",
+		"/D/WorkSpaces/weme/src/weme.js",
+		"/D/WorkSpaces/weme/src/public/js/auth/login.js"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Things",
+			"this.last_name",
+			"this.first_name",
+			"function",
+			"last_name",
+			"first_name",
+			",",
+			"this.",
+			"first",
+			"this.",
+			"this",
+			"function",
+			"a1",
+			"=",
+			"1",
+			"arr[0]",
+			"var",
+			"cur.split('-')",
+			".",
+			"8",
+			"100",
+			"Things",
+			"out",
+			"in",
+			" ",
+			"need",
+			"change",
+			"face",
+			"===",
+			".",
+			"should return",
+			"return",
+			"instanceof",
+			"arg",
+			"max",
+			"console",
+			"'O'",
+			"36",
+			"XXX",
+			"arr",
+			"num",
+			"return",
+			"_b",
+			"a",
+			"params",
+			"apply",
+			";",
+			"ctrl+r",
+			"h",
+			"1",
+			"outter",
+			"10",
+			"true",
+			"innerArr",
+			"var",
+			"i",
+			",",
+			"translateX",
+			");\n",
+			"red",
+			"img",
+			"write",
+			"-1",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"\"",
+			"top",
+			"margin",
+			"0.5",
+			"after",
+			"hover",
+			"style",
+			"div",
+			"add",
+			"\"",
+			"pic div",
+			"iframeElement",
+			"document",
+			"w1",
+			"+",
+			"input",
+			"i",
+			"){",
+			"function(",
+			"var",
+			")",
+			"alert",
+			";",
+			"alert",
+			";",
+			"sum",
+			"arguments[i]",
+			"requestURL",
+			"div",
+			"changePizzaSizes",
+			"frame",
+			"workers",
+			"star",
+			"id",
+			"getprofilebyi",
+			"disable",
+			"birthday",
+			":",
+			"showDownload",
+			"downloadList",
+			"Publish_selectedActivity",
+			"isSelected()",
+			"isSelected",
+			"\\",
+			"showRef",
+			"	<",
+			"foreach",
+			"img/",
+			"/img",
+			"nav",
+			"img-min-lossless-jpg",
+			"img-min-dist",
+			"admin",
+			"z",
+			"thumb",
+			"/src",
+			"a",
+			"data-ngthumb",
+			"照片",
+			"卡片",
+			"flash",
+			"a",
+			"button",
+			"8"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 177.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 154.0
+	},
+	"output.sftp":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "ex-on-h5-and-javascript.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"login",
+				"src\\views\\auth\\login.handlebars"
+			],
+			[
+				"card.js",
+				"src\\public\\js\\admin\\card.js"
+			],
+			[
+				"manage.js",
+				"src\\public\\js\\user\\activity\\manage.js"
+			],
+			[
+				"activity/manage",
+				"src\\views\\user\\activity\\manage.handlebars"
+			],
+			[
+				"event.js",
+				"node_modules\\jquery\\src\\event.js"
+			],
+			[
+				".js",
+				"public\\scripts\\example.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
