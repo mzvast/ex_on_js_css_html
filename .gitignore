@@ -1,4 +1,5 @@
-.sublime-(project|workspace)
+*.sublime*
 sftp-settings
 .idea
 css_animation/node_modules
+.vscode
