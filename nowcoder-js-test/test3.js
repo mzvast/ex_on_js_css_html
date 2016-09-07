@@ -56,7 +56,8 @@ function base10(str) {
 //将给定数字转换成二进制字符串。如果字符串长度不足 8 位，则在前面补 0 到满8位。
 
 function convertToBinary(num) {
-  return ('00000000'+num.toString(2)).substr(-8);
+  // return ('00000000'+num.toString(2)).substr(-8);
+  return ('00000000'+num.toString(2)).slice(-8);
 }
 
 // console.log(convertToBinary(65));multiply(3, 0.0001)

@@ -39,16 +39,11 @@ function functionFunction(str) {
 // console.log(functionFunction('Hello')('world'));
 
 function makeClosures(arr, fn) {
-  var results = [];
-
-  for (var i = 0; i < arr.length; i++) {
-    var obj = function (x) {
-      return function () {
-        return fn(x);
-      }
-    }(arr[i])
-    results.push(obj);
-  }
+  return arr.map(function (cur,curIndex,array) {
+    return function(){
+      return cur*cur;
+    }
+  })
 
   return results;
 }
@@ -90,9 +85,10 @@ var test = function (first, second) { return first === a && second === b;};
 // console.log(callIt(test, a, b));
 
 function partialUsingArguments(fn) {
-  var args = [].slice.call(arguments,1);
-    return function() {
-      return fn.apply(null,args.concat([].slice.call(arguments,0)));
+    var a_b = [].slice.call(arguments,1);
+  return function result(){
+        var c_d = [].slice.call(arguments,0);
+        return fn.apply(null,a_b.concat(c_d))
     }
 }
 

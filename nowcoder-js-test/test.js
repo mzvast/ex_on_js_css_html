@@ -29,54 +29,46 @@ function removeWithoutCopy(arr, item) {
 // console.log(removeWithoutCopy([1, 2, 2, 3, 4, 2, 2], 2));
 
 function append(arr, item) {
-  var arr_cp =arr.slice();
-  arr_cp.push(item);
-  return arr_cp;
+  return arr.slice().concat(item);
 }
 
 // console.log(append([1, 2, 3, 4],  10));
 
 function truncate(arr) {
-  var arr_cp =arr.slice();
-  arr_cp.pop();
-  return arr_cp;
+  return arr.slice(0,arr.length-1);
 }
 
 // console.log(truncate([1, 2, 3, 4]));
 
 function prepend(arr, item) {
-  var arr_cp = arr.slice(0);
-  arr_cp.unshift(item);
-  return arr_cp;
+  return [item].concat(arr);
 }
 
 // console.log(prepend([1, 2, 3, 4], 10));
 
 function curtail(arr) {
-  var arr_cp = arr.slice(0);
-  arr_cp.shift();
-  return arr_cp;
+  return arr.slice(1);
 }
 // console.log(curtail([1, 2, 3, 4]));
 
-function concat(arr1, arr2) {
-  var a1 = arr1.slice(0);
-  var a2 = arr2.slice(0);
-  return a1.concat(a2);
+function concat(arr1, arr2) {  
+  return arr1.concat(arr2);
 }
 // console.log(concat([1, 2, 3, 4], ['a', 'b', 'c', 1]));
 
 function insert(arr, item, index) {
-  var a = arr.slice(0);
-  a.splice(index,0,item);
-  return a;
+  //var a = arr.slice(0);
+  //a.splice(index,0,item);
+  //return a;
+  return arr.slice(0,index).concat(item).concat(arr.slice(index))
 }
 
 // console.log(insert([1, 2, 3, 4], 'z', 2));
 
 function count(arr, item) {
   return arr.reduce(function(pre,cur,curIndex,array) {
-    return item===cur?pre+1:pre;
+    return pre + (cur===item?1:0);
+    // return item===cur?pre+1:pre;
   },0)
 }
 
@@ -95,13 +87,22 @@ function duplicates(arr) {
   return dup;
 }
 
+function duplicates(arr) {
+  return arr.reduce(function(pre,cur,curIndex,array){
+        var temp = array.slice(0,curIndex).concat(array.slice(curIndex+1));
+        if(temp.indexOf(cur)!==-1&&pre.indexOf(cur)===-1){
+            pre.push(cur);
+        }
+        return pre;
+    },[])
+}
+
 // console.log(duplicates([1, 2, 4, 4, 3, 3, 1, 5, 3]).sort())
 
 function square(arr) {
-  return arr.reduce(function(pre,cur,curIndex,array) {
-    pre.push(cur*cur);
-    return pre;
-  },[])
+  return arr.map(function(cur,curIndex,array){
+    return cur*cur;
+  })
 }
 
 // console.log(square([1, 2, 3, 4]));
@@ -120,30 +121,31 @@ function findAllOccurrences(arr, target) {
 
 
 function parse2Int(num) {
-  if (num.slice(0,2) === '0x') {
-    return 0;
-  }
-    return parseInt(num);
+  // if (num.slice(0,2) === '0x') {
+  //   return 0;
+  // } 
+    return parseInt(num.match(/^(\d+)/)[0]);
 }
 
 // console.log(parse2Int('12'),parse2Int('12px'),parse2Int('0x12'));
 
 function count(start, end) {
-  var counter = start;
-  console.log(counter++)
-  var timer = setInterval(function() {
-      if(counter<=end){
-        console.log(counter++); 
-      }else{
-        clearInterval(timer);
-      }
-  },100)
-  return {
-    cancel:function() {
-      clearInterval(timer);
-    }
-  };
-};
+  console.log(start);
+    var counter = start;    
+    var h = setInterval(function(){
+        if(counter>=end){
+            clearInterval(h);            
+        }else{
+            console.log(++counter);   
+        }
+            
+    },100);    
+    return {
+        cancel:function(){
+            clearInterval(h);
+        }
+    };
+}
 
 var controller = count(1,10);
 setTimeout(function() {
