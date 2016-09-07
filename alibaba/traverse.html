@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Traverse Nodes</title>
+  <style type="text/css">
+  /* .big,.small{
+    border: 1px red solid;
+  } */
+    .big{
+      width: 51px;
+      height: 51px;
+    }
+    .small{
+      width: 49px;
+      height: 49px;
+    }
+  </style>
+</head>
+<body>
+<div class="big">51px</div>
+<div class="big">51px</div>
+<div class="small">49px</div>
+<script type="text/javascript">  
+var arr = [];
+function traverse(node){
+  return [].filter.call(document.querySelectorAll('body *'),function(ele) {
+    return ele.offsetWidth>50&&ele.offsetHeight>50;
+  });
+}
+  console.log(traverse())
+
+</script>
+</body>
+</html>
