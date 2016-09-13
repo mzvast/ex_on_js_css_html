@@ -1,17 +1,19 @@
-//not right
+//not Pass all tests
 function find(rr) {  
   var counter = 0;
   var r = Math.sqrt(rr);
   // console.log(r);
-  for(var x = -r; x*x<=rr;x++){
-    var y = Math.sqrt(rr - x*x);
+  for(var x = -r; x<=r;x++){
+    var xx = x*x;
+    var yy = rr - xx;
+    var y = Math.sqrt(yy);
+
     if(parseInt(y)===y){      
-      
-      if (x*x!==rr) {
-        console.log("(x=",x,",y=+/-",y,")");
-        counter++;
+      if (xx===rr) {
+        console.log("(x=",x,",y=",y,")=>1");
       }else{
-        console.log("(x=",x,",y=",y,")");
+        counter++;
+        console.log("(x=",x,",y=+/-",y,")=>2");
       }      
       counter++;
     }
@@ -19,4 +21,4 @@ function find(rr) {
   return counter;
 }
 
-console.log(find(25))
+console.log(find(9))
