@@ -1,14 +1,17 @@
 //not all pass.only 17%
 function search(xml,mode) {
   // while(xml.match(/<\w*>/))
+  var xml_arr = xml.match(/<[a-z]*>/g);
   var mode_str = mode.match(/<\w*>/)[0]
-  console.log(xml.match(/<\w*>/g).reduce(function(pre,cur,curIndex,array) {
+  // console.log(xml_arr)
+  // console.log(mode_str)
+  console.log(xml_arr.reduce(function(pre,cur,curIndex,array) {
     if (cur == mode_str) {
       pre++;
     }
     return pre;
   },0))
-  console.log(xml.match(/<\w*>/g).reduce(function(pre,cur,curIndex,array) {
+  console.log(xml_arr.reduce(function(pre,cur,curIndex,array) {
     if (cur == mode_str) {
       pre.push(curIndex+1);
     }
